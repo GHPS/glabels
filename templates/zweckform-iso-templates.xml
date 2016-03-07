@@ -19,7 +19,7 @@
   </Template>
 
   <!-- =================================================================== -->
-  <!-- Zweckform 3477: Adress labels                                       -->
+  <!-- Zweckform 3477: Address labels                                       -->
   <!-- =================================================================== -->
   <Template brand="Zweckform" part="3477" size="A4" _description="Address Labels">
     <Meta category="label"/>
@@ -271,7 +271,7 @@
   </Template>
 
   <!-- =================================================================== -->
-  <!-- Zweckform 3348: Adress Labels.                                      -->
+  <!-- Zweckform 3348: Address Labels.                                      -->
   <!-- =================================================================== -->
   <Template brand="Zweckform" part="3348" size="A4" _description="Address Labels">
     <Meta category="label"/>
